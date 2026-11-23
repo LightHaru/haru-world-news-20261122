@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#f4eedf"/>
+  <rect x="24" y="24" width="976" height="976" fill="none" stroke="#1c2b29" stroke-width="3"/>
+
+  <!-- masthead -->
+  <g font-family="DejaVu Serif" fill="#172421">
+    <text x="512" y="86" text-anchor="middle" font-size="65" font-weight="700">THE SUNDAY WORLD</text>
+  </g>
+  <line x1="48" y1="101" x2="976" y2="101" stroke="#1c2b29" stroke-width="2"/>
+  <g font-family="DejaVu Sans" fill="#344541" font-size="15" font-weight="700">
+    <text x="48" y="125">SUNDAY</text>
+    <text x="512" y="125" text-anchor="middle">22 NOVEMBER 2026</text>
+    <text x="976" y="125" text-anchor="end">IN ONE IMAGE</text>
+  </g>
+  <line x1="48" y1="139" x2="976" y2="139" stroke="#1c2b29" stroke-width="5"/>
+
+  <!-- lead band -->
+  <rect x="48" y="146" width="928" height="32" fill="#bb3b31"/>
+  <g font-family="DejaVu Sans" fill="#fffaf0" font-size="17" font-weight="700">
+    <text x="512" y="168" text-anchor="middle">CLIMATE DIPLOMACY  ·  ANTALYA, TÜRKİYE  ·  NPR</text>
+  </g>
+
+  <g font-family="DejaVu Serif" fill="#172421">
+    <text x="512" y="223" text-anchor="middle" font-size="44" font-weight="700">A CLIMATE SUMMIT</text>
+    <text x="512" y="270" text-anchor="middle" font-size="44" font-weight="700">BREAKS APART</text>
+  </g>
+  <g font-family="DejaVu Sans" fill="#9f352d" font-size="18" font-weight="700">
+    <text x="512" y="299" text-anchor="middle">COP31 TALKS BREAK DOWN OVER FOSSIL FUELS</text>
+  </g>
+
+  <!-- lead illustration: split hall/table -->
+  <rect x="48" y="319" width="928" height="292" rx="3" fill="#dde1d1"/>
+  <path d="M48 552 C190 530 322 558 452 535 C584 512 718 542 976 516 L976 611 L48 611 Z" fill="#bcc7a9"/>
+  <circle cx="512" cy="435" r="68" fill="#f4eedf" stroke="#1c2b29" stroke-width="4"/>
+  <path d="M512 367 A68 68 0 0 1 512 503" fill="#55a4a0" opacity=".9"/>
+  <path d="M512 367 A68 68 0 0 0 512 503" fill="#e7d28b" opacity=".9"/>
+  <path d="M512 367 L512 503" stroke="#bb3b31" stroke-width="12"/>
+  <path d="M446 405 L490 422 L512 367" fill="none" stroke="#1c2b29" stroke-width="3"/>
+  <path d="M578 405 L534 422 L512 367" fill="none" stroke="#1c2b29" stroke-width="3"/>
+
+  <!-- delegates left -->
+  <g fill="#1c2b29">
+    <circle cx="166" cy="466" r="13"/><circle cx="208" cy="450" r="13"/><circle cx="250" cy="458" r="13"/>
+    <circle cx="292" cy="440" r="13"/><circle cx="334" cy="450" r="13"/>
+  </g>
+  <g fill="#f4eedf" stroke="#1c2b29" stroke-width="3">
+    <path d="M153 482 L179 482 L186 530 L146 530 Z"/><path d="M195 466 L221 466 L228 530 L188 530 Z"/>
+    <path d="M237 474 L263 474 L270 530 L230 530 Z"/><path d="M279 456 L305 456 L312 530 L272 530 Z"/>
+    <path d="M321 466 L347 466 L354 530 L314 530 Z"/>
+  </g>
+  <!-- delegates right -->
+  <g fill="#1c2b29">
+    <circle cx="690" cy="450" r="13"/><circle cx="732" cy="440" r="13"/><circle cx="774" cy="458" r="13"/>
+    <circle cx="816" cy="450" r="13"/><circle cx="858" cy="466" r="13"/>
+  </g>
+  <g fill="#f4eedf" stroke="#1c2b29" stroke-width="3">
+    <path d="M677 466 L703 466 L710 530 L670 530 Z"/><path d="M719 456 L745 456 L752 530 L712 530 Z"/>
+    <path d="M761 474 L787 474 L794 530 L754 530 Z"/><path d="M803 466 L829 466 L836 530 L796 530 Z"/>
+    <path d="M845 482 L871 482 L878 530 L838 530 Z"/>
+  </g>
+
+  <!-- broken table -->
+  <path d="M72 566 L475 522 L511 551 L102 594 Z" fill="#a96d43" stroke="#1c2b29" stroke-width="4"/>
+  <path d="M513 551 L549 522 L952 566 L922 594 Z" fill="#a96d43" stroke="#1c2b29" stroke-width="4"/>
+  <path d="M475 522 L505 554 L511 551 L511 535 Z" fill="#bb3b31"/>
+  <path d="M549 522 L519 554 L513 551 L513 535 Z" fill="#bb3b31"/>
+  <line x1="512" y1="551" x2="512" y2="611" stroke="#bb3b31" stroke-width="7"/>
+  <circle cx="512" cy="557" r="5" fill="#f4eedf" stroke="#bb3b31" stroke-width="3"/>
+
+  <!-- fossil-fuel fracture motif -->
+  <g fill="none" stroke="#bb3b31" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 351 L116 375 L105 398 L130 421"/>
+    <path d="M932 351 L908 375 L919 398 L894 421"/>
+  </g>
+
+  <!-- story rule -->
+  <line x1="48" y1="631" x2="976" y2="631" stroke="#1c2b29" stroke-width="3"/>
+
+  <!-- three smaller stories -->
+  <g font-family="DejaVu Sans" fill="#172421">
+    <line x1="352" y1="631" x2="352" y2="957" stroke="#1c2b29" stroke-width="2"/>
+    <line x1="656" y1="631" x2="656" y2="957" stroke="#1c2b29" stroke-width="2"/>
+
+    <!-- Korea -->
+    <rect x="48" y="647" width="304" height="28" fill="#2f6e73"/>
+    <text x="200" y="667" text-anchor="middle" fill="#fffaf0" font-size="15" font-weight="700">SOUTH KOREA · TECHNOLOGY</text>
+    <text x="200" y="706" text-anchor="middle" font-family="DejaVu Serif" font-size="27" font-weight="700">MINISTER QUITS</text>
+    <text x="200" y="738" text-anchor="middle" font-family="DejaVu Serif" font-size="27" font-weight="700">IN AI EXAM ROW</text>
+
+    <rect x="82" y="783" width="236" height="120" rx="4" fill="#e0ddd0" stroke="#1c2b29" stroke-width="3"/>
+    <g stroke="#7b8278" stroke-width="2">
+      <line x1="111" y1="817" x2="284" y2="817"/><line x1="111" y1="842" x2="284" y2="842"/>
+      <line x1="111" y1="867" x2="284" y2="867"/>
+    </g>
+    <g fill="#1c2b29">
+      <rect x="111" y="806" width="10" height="10"/><rect x="111" y="831" width="10" height="10"/>
+      <rect x="111" y="856" width="10" height="10"/>
+    </g>
+    <g fill="#f4eedf" stroke="#2f6e73" stroke-width="4">
+      <circle cx="267" cy="807" r="17"/><circle cx="267" cy="854" r="17"/>
+    </g>
+    <g stroke="#bb3b31" stroke-width="5" fill="none">
+      <path d="M259 798 L267 807 L278 791"/><path d="M259 845 L267 854 L278 838"/>
+    </g>
+    <text x="200" y="934" text-anchor="middle" font-size="16" font-weight="700" fill="#344541">AI-CHEATING SCANDAL</text>
+
+    <!-- Indonesia -->
+    <rect x="352" y="647" width="304" height="28" fill="#cb7a2d"/>
+    <text x="504" y="667" text-anchor="middle" fill="#fffaf0" font-size="15" font-weight="700">INDONESIA · INDUSTRIAL SAFETY</text>
+    <text x="504" y="706" text-anchor="middle" font-family="DejaVu Serif" font-size="27" font-weight="700">FACTORY FIRE</text>
+    <text x="504" y="738" text-anchor="middle" font-family="DejaVu Serif" font-size="25" font-weight="700">DOZENS MISSING</text>
+
+    <rect x="386" y="820" width="236" height="83" fill="#1c2b29"/>
+    <rect x="407" y="789" width="194" height="114" fill="#344541" stroke="#172421" stroke-width="3"/>
+    <g fill="#d0bd86" stroke="#172421" stroke-width="2">
+      <rect x="422" y="816" width="25" height="31"/><rect x="458" y="816" width="25" height="31"/>
+      <rect x="494" y="816" width="25" height="31"/><rect x="530" y="816" width="25" height="31"/>
+    </g>
+    <g fill="#ef9b38" stroke="#bb3b31" stroke-width="3" transform="translate(0 24)">
+      <path d="M420 789 C420 763 446 771 439 744 C467 765 470 786 454 803 Z"/>
+      <path d="M485 789 C484 753 513 763 506 731 C537 759 542 784 523 803 Z"/>
+      <path d="M548 789 C548 769 565 775 560 754 C579 767 582 788 566 803 Z"/>
+    </g>
+    <g fill="#6d7470" opacity=".9">
+      <circle cx="441" cy="850" r="24"/><circle cx="492" cy="835" r="31"/>
+      <circle cx="548" cy="850" r="27"/><circle cx="590" cy="865" r="18"/>
+    </g>
+    <text x="504" y="934" text-anchor="middle" font-size="16" font-weight="700" fill="#344541">COUNTS DEVELOPING</text>
+
+    <!-- Libya -->
+    <rect x="656" y="647" width="320" height="28" fill="#1e4e68"/>
+    <text x="816" y="667" text-anchor="middle" fill="#fffaf0" font-size="15" font-weight="700">LIBYA · MEDITERRANEAN</text>
+    <text x="816" y="706" text-anchor="middle" font-family="DejaVu Serif" font-size="27" font-weight="700">RUSSIAN SHIP</text>
+    <text x="816" y="738" text-anchor="middle" font-family="DejaVu Serif" font-size="27" font-weight="700">SINKS IN LIBYA</text>
+
+    <rect x="688" y="783" width="256" height="120" fill="#9fc1c4"/>
+    <rect x="688" y="871" width="256" height="32" fill="#4d858a"/>
+    <g fill="#1c2b29">
+      <rect x="699" y="793" width="8" height="78"/><rect x="925" y="793" width="8" height="78"/>
+      <path d="M706 851 L733 829 L899 829 L930 851 Z"/>
+      <path d="M733 829 L744 811 L866 811 L890 829 Z"/>
+      <rect x="790" y="793" width="42" height="18"/>
+      <rect x="806" y="779" width="10" height="14"/>
+    </g>
+    <g stroke="#172421" stroke-width="3" fill="none">
+      <path d="M706 851 L733 861 L899 861 L930 851"/>
+      <path d="M790 793 L782 808 M832 793 L840 808"/>
+    </g>
+    <path d="M706 851 L733 861 L899 861 L930 851 L925 875 L711 875 Z" fill="#172421" opacity=".45"/>
+    <g fill="#bb3b31" opacity=".9">
+      <circle cx="714" cy="849" r="7"/><circle cx="922" cy="849" r="7"/>
+    </g>
+    <text x="816" y="934" text-anchor="middle" font-size="16" font-weight="700" fill="#344541">RESPONSIBILITY UNCONFIRMED</text>
+  </g>
+
+  <!-- footer -->
+  <line x1="48" y1="957" x2="976" y2="957" stroke="#1c2b29" stroke-width="5"/>
+  <g font-family="DejaVu Sans" fill="#344541" font-size="12" font-weight="700">
+    <text x="48" y="982">ILLUSTRATION / THE SUNDAY WORLD</text>
+    <text x="976" y="982" text-anchor="end">NEWSROOM EDITION · 22 NOV 2026</text>
+  </g>
+</svg>
